@@ -1,0 +1,29 @@
+﻿  Animal.cpp
+C:\Users\bitesaitzzz\source\repos\FINAL PROJECT PO\FINAL PROJECT PO\Animal.cpp(131,11): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  Antelope.cpp
+  Dandelion.cpp
+  FINAL PROJECT PO.cpp
+  Fox.cpp
+  Grass.cpp
+  Guarana.cpp
+  Man.cpp
+  Organizm.cpp
+  Pine_Hogweed.cpp
+  Plant.cpp
+  Sheep.cpp
+  Turtle.cpp
+  Wolf.cpp
+  Wolfberries.cpp
+  World.cpp
+C:\Users\bitesaitzzz\source\repos\FINAL PROJECT PO\FINAL PROJECT PO\World.cpp(296,22): warning C4244: аргумент: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  Создание кода...
+C:\Users\bitesaitzzz\source\repos\FINAL PROJECT PO\FINAL PROJECT PO\Organizm.cpp(98): warning C4715: Organizm::createOrganizm: значение возвращается не при всех путях выполнения
+  FINAL PROJECT PO.vcxproj -> C:\Users\bitesaitzzz\source\repos\FINAL PROJECT PO\arm64\Debug\FINAL PROJECT PO.exe
